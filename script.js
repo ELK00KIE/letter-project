@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message =  Hi, I hope you have been doing well and taking care of yourself. I’ve taken this to to really reflect, think, and sit with everything. I understand fully what you needed, not just love, but safety, stability, leadership, presence, direction, and hold you through life the way I was meant to, emotionally, mentally, physically, financially. I know I wasn’t fully there yet, and I know that I hurt you in ways that I would never wanted. But these weeks have changed me. Not because I lost you, but because I finally faced myself. You once said that love was not the problem between us, I still believe that. I don’t want to change or rewrite the past, or go back to how things were and repeat cycles/dynamics. I just want to say that, if there is space to start again. Slow, Soft, New. I’d love to see where we can go from here. I’m always wishing you peace and happiness. ;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
